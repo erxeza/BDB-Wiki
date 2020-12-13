@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="template.css">
     <!--1. Change the Title of the Tab here-->
-    <title>BDB Wiki Template</title>
+    <title>BDB Wiki Spinach</title>
 </head>
 <body>
     
@@ -15,15 +15,13 @@
     <img src="Jasper.jpg">
 
     <!--2. Change the title of the article here-->
-    <h1>Jasper Hawks</h1>
+    <h1>Jasper Spinach</h1>
     <hr class="namehr"> 
 
     <div class ="bio-container">
     <h2 class="bio">Biography</h2>
     <hr class="biobar"> <!--Put Text between the <p> tags in order to edit the Biography paragraph-->
-    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. 
-        Facere voluptatem ducimus tempora similique reprehenderit quasi eaque, tempore consectetur ullam earum est alias deleniti cum fuga magni.
-        Quia quam natus molestias.<br><br>
+    <p> Spinach is the leftover canned spinach Popeye didn't want. <br><br>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. 
         Repellendus ad officiis laboriosam.
         Perferendis ratione temporibus suscipit, eligendi dolor iure iusto minus officiis, molestias sint debitis vitae minima accusantium optio ipsa!</p>
@@ -35,12 +33,12 @@
     <h2>Trivia</h2>
     <hr>
     <ul> <!--4. Put Text Between the <li> tags in order to list facts add more <li> tags to list more points-->
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
+        <li> Spinach is the tallest person on the BDB server. </li>
+        <li> Spinach has a crush on Kayn and Henry Cavill. </li>
+        <li> Spinach was married 6 times in 2 days. </li>
+        <li> Spinach is the nicest and kindest person on the BDB server. </li>
+        <li> Seb is Spinachs' worst nightmare. </li>
+        <li> Spinach actually perfers kale. </li>
     </ul>
     </div>
 
